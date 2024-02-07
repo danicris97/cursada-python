@@ -1,0 +1,2 @@
+hola mundo en archivo txt desde python 
+ tambien en html

@@ -1,0 +1,2 @@
+ver como funciona signal para mejorar el codigo orientado a objetos
+buscar sobre web scraping para ejercicio 7

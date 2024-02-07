@@ -1,0 +1,7 @@
+agregar un nuevo alumno
+abrir un pop-up solo con datos personales
+abrir un pop-up solo con datos academicos
+
+*establecer la condicion de alumno solo ingresando notas permitiendo modificacion de ser necesario
+
+buscar sobre web scraping
